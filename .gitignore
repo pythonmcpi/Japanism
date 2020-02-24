@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Repl.it
+.replit
+.bashrc
+nohup.out
