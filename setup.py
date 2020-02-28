@@ -15,3 +15,5 @@ config = {
     "name": "Japanism",
     "python_requires": ">=3.6"
 }
+
+setup(**config)
